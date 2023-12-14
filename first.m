@@ -248,6 +248,6 @@ end
 
 %% M) Non-dimensionalization
 for i=1:1:m
-    dddd(1, i)*((total_a)^2)*12*(1-noo^2) / ((pi^2)*(h^2)*E)
+    dddd(1, i)*((total_a)^2)*12*(1-noo^2) / ((h^2)*E)
 end
 %}
